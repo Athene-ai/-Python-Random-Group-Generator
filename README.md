@@ -1,4 +1,4 @@
-# -Python-Random-Group-Generator
+# Random-Group-Generator
 Partial credit goes to the Programming Club at Normandale Community College
 
 This program tested and runs in python 3.2.5
